@@ -124,7 +124,7 @@ def main():
             
             # Display result
             print("\n" + "=" * 60)
-            print(f"✅ RESULT: {value} {from_unit}(s) = {result:.4f} {to_unit}(s)")
+            print(f"✅ RESULT: {value:.4g} {from_unit}(s) = {result:.4g} {to_unit}(s)")
             print("=" * 60)
             
             # Show reference guide

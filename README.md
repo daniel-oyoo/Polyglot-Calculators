@@ -63,6 +63,7 @@ Current Unique Contributor Amount is **19**!
 | `SimpleCalculator-Java-Perouvianoss` | Java | [@Perouvianoss](https://github.com/Perouvianoss)|
 | `SimpleCalculator-Web-ifauzeee` | Html/Js/Css | [@ifauzeee](https://github.com/ifauzeee) |
 | `SimpleCalculator-C++-Daku3011` | C++ | [@Daku3011](https://github.com/Daku3011) / [@B3rou](https://github.com/B3rou) |
+| `SimpleCalculator-C++-Voyger2` | C++ | [@Voyger2](https://github.com/Voyger2)|
 | | | |
 | --- **🧪 Science** --- | | |
 | `TemperatureConverter-Java-Ayden939` | Java | [@Ayden939](https://github.com/Ayden939) |
